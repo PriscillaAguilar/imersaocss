@@ -1,0 +1,69 @@
+body {
+    background-image: url("http://2.bp.blogspot.com/-JHWz3w9nz9w/UKaV_GmrknI/AAAAAAAAAow/0zXyuhCUHIo/s1600/iuiui.jpg");
+    background-size: auto 100vh;
+    font-family: verdana;
+    height: 100vh;
+  }
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: nome;
+  }
+  
+  a {body {
+    background-image: url("http://2.bp.blogspot.com/-JHWz3w9nz9w/UKaV_GmrknI/AAAAAAAAAow/0zXyuhCUHIo/s1600/iuiui.jpg");
+    background-size: auto 100vh;
+    font-family: verdana;
+    height: 100vh;
+  }
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: nome;
+  }
+  
+  a {
+    color: black;
+    text-decoration: nome;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+    color: black;
+    text-decoration: nome;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
